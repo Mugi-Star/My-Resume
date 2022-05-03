@@ -1,1 +1,2 @@
-[Mu Resume](https://mugi-star.github.io/My-Resume/)
+
+[My Resume](https://mugi-star.github.io/My-Resume/)
